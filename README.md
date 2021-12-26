@@ -1,1 +1,1 @@
-# generalized-linear-models
+This is example code from the Coursera course "Generalized Linear Models and Nonparametric Regression".
